@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E10600&center=true&vCenter=true&width=700&lines=Every+Corner.+Every+Overtake.+Relived.+%F0%9F%8F%8E%EF%B8%8F;Live+F1+Telemetry+%E2%80%94+Animated+in+Real+Time;Safety+Car+%7C+Leaderboard+%7C+Driver+Insights;Powered+by+FastF1+%26+Python+Arcade" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="360" />
+<img src="https://media.giphy.com/media/kGnvCfL0PZ54WOKo3p/giphy.gif" width="360" />
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastF1](https://img.shields.io/badge/FastF1-Data-E10600?style=for-the-badge)](https://github.com/theOehrly/Fast-F1)

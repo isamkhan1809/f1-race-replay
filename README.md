@@ -26,10 +26,10 @@
 ```
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║   23 drivers. 60+ laps. Millions of GPS data points.        ║
-  ║   Every corner, every overtake, every safety car.           ║
+  ║   23 drivers. 60+ laps. Millions of GPS data points.         ║
+  ║   Every corner, every overtake, every safety car.            ║
   ║                                                              ║
-  ║           Now you can watch it all again.                   ║
+  ║           Now you can watch it all again.                    ║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -84,24 +84,24 @@ Mode:  Race / Sprint / Qualifying
 ┌─────────────────────────────────────────────────────────────┐
 │                    F1 RACE REPLAY ENGINE                    │
 │                                                             │
-│  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐  │
-│  │  GUI / CLI   │───▶│   FastF1     │───▶│  f1_data.py  │  │
-│  │  Year/Round  │    │  Session     │    │  Frame Gen   │  │
-│  │  Selector    │    │  Loader      │    │  SC Compute  │  │
-│  └──────────────┘    └──────────────┘    └──────┬───────┘  │
-│                                                 │          │
-│                           ┌─────────────────────▼───────┐  │
-│                           │     arcade_replay.py        │  │
-│                           │     Track Renderer          │  │
-│                           │     Driver Positions        │  │
-│                           │     Leaderboard + HUD       │  │
-│                           └─────────────────────┬───────┘  │
-│                                                 │          │
-│                           ┌─────────────────────▼───────┐  │
-│                           │     Insights Menu           │  │
-│                           │     Telemetry per Driver    │  │
-│                           │     Speed · Gear · DRS      │  │
-│                           └─────────────────────────────┘  │
+│  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐   │
+│  │  GUI / CLI   │───▶│   FastF1     │───▶│  f1_data.py  │   │
+│  │  Year/Round  │    │  Session     │    │  Frame Gen   │   │
+│  │  Selector    │    │  Loader      │    │  SC Compute  │   │
+│  └──────────────┘    └──────────────┘    └──────┬───────┘   │
+│                                                 │           │
+│                           ┌─────────────────────▼───────┐   │
+│                           │     arcade_replay.py        │   │
+│                           │     Track Renderer          │   │
+│                           │     Driver Positions        │   │
+│                           │     Leaderboard + HUD       │   │
+│                           └─────────────────────┬───────┘   │
+│                                                 │           │
+│                           ┌─────────────────────▼───────┐   │
+│                           │     Insights Menu           │   │
+│                           │     Telemetry per Driver    │   │
+│                           │     Speed · Gear · DRS      │   │
+│                           └─────────────────────────────┘   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
